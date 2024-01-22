@@ -22,4 +22,4 @@ Here's a brief overview of the files in this directory:
 - Yash_Nagpaul_Capstone_Modelling.ipynb
   - This file contains the Machine Learning / modelling part of the project.
 
-#### Watch walkthrough video [here](https://www.loom.com/share/abfc16d8b6a041a89f7b577f7fd817b2?sid=fa50ef23-d270-4d77-ac9f-e417b3fba6a3).
+#### Watch my project demo [here](https://www.loom.com/share/abfc16d8b6a041a89f7b577f7fd817b2?sid=fa50ef23-d270-4d77-ac9f-e417b3fba6a3).
