@@ -1,4 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
 *.csv
-*.txt
+X_train.txt
+X_test.txt
+y_train.txt
+y_test.txt

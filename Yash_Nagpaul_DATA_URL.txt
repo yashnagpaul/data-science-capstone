@@ -1,0 +1,8 @@
+The dataset used in this project is a large CSV file (~1.47GB) and can be accessed via the following URL:
+
+https://drive.google.com/file/d/1URoBJ_VBAC6HclRvKj6Lq_ajr1aQGQnH/view?usp=sharing
+
+---
+
+The original data from the research paper referenced in my executive summary and Jupyter notebooks is hosted here:
+https://github.com/yaleemmlc/admissionprediction/blob/master/Results/5v_cleandf.RData
